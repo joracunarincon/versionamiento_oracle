@@ -1,9 +1,8 @@
 CREATE TABLE [esquema].[tabla] (
-
     campo1 tipo1(ext1) default [valor1] [not null1];
     campo2 tipo1(ext2) default [valor2] [not null2];
     campo3 tipo3(ext3) default [valor3] [not null3];
     campo1 tipo4(ext4) default [valor4] [not null4];
     campo1 tipo5(ext5) default [valor5] [not null5];
-	
+    
 );
